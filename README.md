@@ -32,14 +32,23 @@ Exécutez le script Python et entrez le nœud de départ lorsque cela est demand
 
 ## Exemple de graphe
 graphe = {
+
     'A': ['B', 'C', 'D'],
+    
     'B': ['E', 'C'],
+    
     'C': ['E'],
+    
     'D': ['F', 'C'],
+    
     'E': ['A'],
+    
     'F': ['C'],
+    
     'G': ['D', 'F', 'H'],
+    
     'H': ['C']
+    
 }
 
 
