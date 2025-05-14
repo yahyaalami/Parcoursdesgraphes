@@ -62,9 +62,13 @@ Une fenêtre matplotlib s'affiche montrant :
 ## Structure du projet
 📁 dfs_bfs_project/
 │
+
 ├── dfs_bfs_graph.py     # Script principal
+
 ├── README.md            # Documentation
+
 └── Projet 1 Algo DFS & BFS.pdf   # Rapport du projet (optionnel)
+
 
 
 ## Remarques
